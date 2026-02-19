@@ -10,6 +10,15 @@ body {
     background-color: black;
 }
 
+.banner {
+    background-color: #ffcc00;
+    color: #000;
+    text-align: center;
+    padding: 8px 16px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
 
 
 .main .box {
